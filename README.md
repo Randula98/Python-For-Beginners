@@ -16,8 +16,8 @@
 
 ![Python-for-beginners](https://socialify.git.ci/Randula98/Python-For-Beginners/image?description=1&forks=1&language=1&name=1&owner=1&pattern=Floating%20Cogs&stargazers=1&theme=Dark)
 
-<p>🔵 This Repository will help you to learn Python Programming language from the beginnning.<br>
-🔵 Everyone is welcome to contribute.
+<p>🔵 This Repository will help you to learn Python Programming language from the beginnning.🔆<br>
+🔵 Everyone is welcome to contribute.<br>
 🔵 Image courtesy goes to <a href = "https://github.com/ThusharaX/C-programming">ThusharaX/C-programming</a>.
 </p>
 
