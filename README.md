@@ -1,7 +1,5 @@
 # Python For Beginners
 
-#
-
 <h2><strong>Python Language</strong></h2>
 
 #
