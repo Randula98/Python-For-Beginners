@@ -15,7 +15,7 @@
 ![GitHub](https://img.shields.io/github/license/Randula98/Python-For-Beginners)
 
 
-![Python-for-beginners]()
+![Python-for-beginners](https://socialify.git.ci/Randula98/Python-For-Beginners/image?font=Source%20Code%20Pro&forks=1&language=1&name=1&owner=1&pattern=Floating%20Cogs&stargazers=1&theme=Dark)
 
 <p>
 :diamonds: Python is a very powerful and user friendly programming language. :snowflake:<br>
