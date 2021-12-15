@@ -36,4 +36,14 @@
 
 <h2><strong>Contributers ✨</strong></h2>
 
-#
+<table>
+  <tr>
+    <td align="center">
+        <a href="https://github.com/Randula98">
+            <img src="https://avatars.githubusercontent.com/u/85297495?v=4" width="100(px);" alt="Randula98"/>
+            <br />
+            <sub><b>Randula Yashasmith Mawaththa</b></sub>
+        </a>
+    </td>
+  </tr>
+</table>
