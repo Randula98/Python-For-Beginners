@@ -19,11 +19,16 @@
 
 #
 
-
-<p>🔵 This Repository will help you to learn Python Programming language from the beginnning.🔆<br>
+<p>
+🔵 This Repository will help you to learn Python Programming language from the beginnning.🔆<br>
 🔵 Everyone is welcome to contribute. :couple:<br>
 🔵 Image courtesy goes to <a href = "https://github.com/ThusharaX/C-programming" target="_blank">ThusharaX/C-programming</a>.👨🏻‍ 💻<br>
 🔵 Happy Coding folks.. 😄
 </p>
 
 #
+
+<p>
+🔵  Download Python - <a href = "https://www.python.org/ftp/python/3.10.1/python-3.10.1-amd64.exe">Click Here</a><br>
+🔵  Use Pycharm IDE - <a href = "https://download.jetbrains.com/python/pycharm-community-2021.3.exe?_ga=2.147965429.370913245.1639553938-63461915.1638647244&_gl=1*xhnvxw*_ga*NjM0NjE5MTUuMTYzODY0NzI0NA..*_ga_V0XZL7QHEB*MTYzOTU1MzkzNi4yLjEuMTYzOTU1Mzk0Ny4w">Click Here</a> 
+</p>
