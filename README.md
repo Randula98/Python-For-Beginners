@@ -20,7 +20,7 @@
 #
 
 <p>
-🔵 This Repository will help you to learn Python programming language from the beginnning.🔆<br>
+🔵 This Repository will help you to learn <strong>Python</strong> programming language from the beginnning.🔆<br>
 🔵 Everyone is welcome to contribute. :couple:<br>
 🔵 Image courtesy goes to <a href = "https://github.com/ThusharaX/C-programming" target="_blank">ThusharaX/C-programming</a>.👨🏻‍ 💻<br>
 🔵 Happy Coding folks.. 😄
