@@ -1,6 +1,6 @@
 # Python For Beginners
 
-<h2><strong>Python Language</strong></h2>
+<h2><strong>Python Programming Language</strong></h2>
 
 ![GitHub top language](https://img.shields.io/github/languages/top/Randula98/Python-For-Beginners)
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Randula98/Python-For-Beginners)
@@ -14,16 +14,43 @@
 ![GitHub labels](https://img.shields.io/github/labels/Randula98/Python-For-Beginners/help%20wanted)
 ![GitHub](https://img.shields.io/github/license/Randula98/Python-For-Beginners)
 
-<!--
-![Python-for-beginners]()
+
+![Python-for-beginners](https://socialify.git.ci/Randula98/Python-For-Beginners/image?font=Source%20Code%20Pro&forks=1&language=1&name=1&owner=1&pattern=Floating%20Cogs&stargazers=1&theme=Dark)
+
+<p>
+:diamonds: Python is a very powerful and user friendly programming language. :snowflake:<br>
+:diamonds: There are some basic sytaxes and indentation rules you need to understand to learn python. :cat:<br>
+</p>
 
 #
--->
 
-<p>🔵 This Repository will help you to learn Python Programming language from the beginnning.🔆<br>
+<p>
+🔵 This Repository will help you to learn <strong>Python</strong> programming language from the beginnning.🔆<br>
 🔵 Everyone is welcome to contribute. :couple:<br>
 🔵 Image courtesy goes to <a href = "https://github.com/ThusharaX/C-programming" target="_blank">ThusharaX/C-programming</a>.👨🏻‍ 💻<br>
 🔵 Happy Coding folks.. 😄
 </p>
 
 #
+
+<p>
+🔵  Download Python 3.10 - <a href = "https://www.python.org/ftp/python/3.10.1/python-3.10.1-amd64.exe">👉🏻 Click Here 👈🏻</a><br>
+🔵  Use Pycharm IDE - <a href = "https://download.jetbrains.com/python/pycharm-community-2021.3.exe?_ga=2.147965429.370913245.1639553938-63461915.1638647244&_gl=1*xhnvxw*_ga*NjM0NjE5MTUuMTYzODY0NzI0NA..*_ga_V0XZL7QHEB*MTYzOTU1MzkzNi4yLjEuMTYzOTU1Mzk0Ny4w">👉🏻 Click Here 👈🏻</a> 
+</p>
+<!--
+
+<h2><strong>Contributers ✨</strong></h2>
+
+<table>
+  <tr>
+    <td align="center">
+        <a href="https://github.com/Randula98">
+            <img src="https://avatars.githubusercontent.com/u/85297495?v=4" width="100(px);" alt="Randula98"/>
+            <br />
+            <sub><b>Randula Yashasmith Mawaththa</b></sub>
+        </a>
+    </td>
+  </tr>
+</table>
+
+-->
