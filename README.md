@@ -1,6 +1,6 @@
 # Python For Beginners
 
-<h2><strong>Python Language</strong></h2>
+<h2><strong>Python Programming Language</strong></h2>
 
 ![GitHub top language](https://img.shields.io/github/languages/top/Randula98/Python-For-Beginners)
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Randula98/Python-For-Beginners)
