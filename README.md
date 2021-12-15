@@ -17,6 +17,10 @@
 
 ![Python-for-beginners](https://socialify.git.ci/Randula98/Python-For-Beginners/image?description=1&font=Raleway&forks=1&language=1&name=1&owner=1&pattern=Floating%20Cogs&stargazers=1&theme=Dark)
 
+<p>
+:diamonds: Python is a very powerful and user friendly programming language. :snowflake:<br>
+:diamonds: There are some basic sytaxes and indentation rules you need to understand to learn python. :cat:<br>
+</p>
 #
 
 <p>
