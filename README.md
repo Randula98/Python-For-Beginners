@@ -21,6 +21,7 @@
 :diamonds: Python is a very powerful and user friendly programming language. :snowflake:<br>
 :diamonds: There are some basic sytaxes and indentation rules you need to understand to learn python. :cat:<br>
 </p>
+
 #
 
 <p>
