@@ -15,7 +15,7 @@
 ![GitHub](https://img.shields.io/github/license/Randula98/Python-For-Beginners)
 
 
-![Python-for-beginners](https://socialify.git.ci/Randula98/Python-For-Beginners/image?description=1&font=Raleway&forks=1&language=1&name=1&owner=1&pattern=Floating%20Cogs&stargazers=1&theme=Dark)
+![Python-for-beginners]()
 
 <p>
 :diamonds: Python is a very powerful and user friendly programming language. :snowflake:<br>
@@ -37,7 +37,7 @@
 🔵  Download Python 3.10 - <a href = "https://www.python.org/ftp/python/3.10.1/python-3.10.1-amd64.exe">👉🏻 Click Here 👈🏻</a><br>
 🔵  Use Pycharm IDE - <a href = "https://download.jetbrains.com/python/pycharm-community-2021.3.exe?_ga=2.147965429.370913245.1639553938-63461915.1638647244&_gl=1*xhnvxw*_ga*NjM0NjE5MTUuMTYzODY0NzI0NA..*_ga_V0XZL7QHEB*MTYzOTU1MzkzNi4yLjEuMTYzOTU1Mzk0Ny4w">👉🏻 Click Here 👈🏻</a> 
 </p>
-
+<!--
 
 <h2><strong>Contributers ✨</strong></h2>
 
@@ -52,3 +52,5 @@
     </td>
   </tr>
 </table>
+
+-->
